@@ -1,0 +1,9 @@
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.exe.config
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.pdb
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.exe
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.pdb
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.csprojResolveAssemblyReference.cache
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.Form1.resources
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.Properties.Resources.resources
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.csproj.GenerateResource.Cache
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.exe
